@@ -10,6 +10,6 @@ shell commands, tools for debugging, etc.
     - 安装tmux：```apt-get install tmux```或```yum install tmux```
     - 启动tmux：Ctrl-b
     - 配置文件：每当开启一个新的会话时，tmux都会先读取~/.tmux.conf文件
-    - 更多帮助：```man tmux```
+    - 更多帮助：```man tmux```
 
 2. 
